@@ -1,0 +1,11 @@
+.counter {
+    font-size: 2em;
+    text-align: center;
+    margin: 50px 0;
+    opacity: 0;
+    /* Hidden initially */
+}
+
+.counter.visible {
+    opacity: 1;
+}
